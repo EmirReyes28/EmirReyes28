@@ -1,4 +1,6 @@
-## Hola! Me llamo Arturo Reyes 👋
+<!-- Banner -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <!--
