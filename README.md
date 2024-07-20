@@ -11,8 +11,8 @@
 - 📫 Si me quieres contactar te dejo mi correo: **emirarturo28@gmail.com**
 
 <!-- CONTACTO -->
-<h3 align="left">Mis Redes:</h3>
-<p align="left">
+<h3 align="center">Mis Redes:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/arturo-reyes-quintanilla/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emir Reyes Quintanilla" height="30" width="40" />
   </a>
