@@ -32,4 +32,9 @@
   </a>
   <a href="https://www.databricks.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="databricks" width="40" height="40"/>
   </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="databricks" width="40" height="40"/>
+  </a>
+</p>
+
+
   
